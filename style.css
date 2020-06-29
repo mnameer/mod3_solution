@@ -10,11 +10,11 @@
 }
 .navbar-brand{
   font-size: 35px;
-  color: white;
+  color:#990000 ;
   padding-left: 25px;
 }
 .navbar-brand:hover{
-  color: white;
+  color:  #ffffff;
 }
 .nav{
   margin: 0;
@@ -34,7 +34,7 @@
 }
 
 .icon-bar{
-  background-color: white;
+  background-color: #595959;
 }
 .main-title{
   margin-bottom: 15px;
