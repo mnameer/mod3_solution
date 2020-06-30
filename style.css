@@ -37,7 +37,7 @@
 }
 
 .icon-bar{
-	background-color: green;
+	background-color: white;
 }
 
 
@@ -80,7 +80,7 @@ li{
 	margin: 20px;
 	width: auto;
 	height: auto;
-	color: black;
+	color: green;
 	background-color: rgba(0,0,0,0.2);
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 20px;
