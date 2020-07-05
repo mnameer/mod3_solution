@@ -37,14 +37,14 @@
 }
 
 .icon-bar{
-	background-color: white;
+	background-color: orange;
 }
 
 
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: solid black;
+  color: magenta;
   font-size: 50px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
@@ -61,7 +61,7 @@ li{
 	width: 100%;
 	background-color: white;
 	border-bottom: 1px solid black;
-	color: pale green;
+	color: whitw;
 	display: block;
 }
 
@@ -80,7 +80,7 @@ li{
 	margin: 20px;
 	width: auto;
 	height: auto;
-	color: green;
+	color: red;
 	background-color: rgba(0,0,0,0.2);
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 20px;
