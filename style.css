@@ -44,7 +44,7 @@
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: blue;
+  color: #228B22;
   font-size: 50px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
@@ -59,7 +59,7 @@ li{
 	padding: 0;
 	margin: 0;
 	width: 100%;
-	background-color: blue;
+	background-color: #0000CD;
 	border-bottom: 1px solid black;
 	color: white;
 	display: block;
